@@ -1,2 +1,2 @@
 # kalkulatorApp
-prosty kalkulator stworzyny w Tkinter
+prosty kalkulator napisany w Tkinter
